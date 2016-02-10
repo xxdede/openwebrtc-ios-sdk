@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => "BSD-2", :file => "LICENSE" }
   s.author       = { "Ericsson AB" => "labs@ericsson.com" }
   s.social_media_url = "https://twitter.com/OpenWebRTC"
-  s.platform     = :ios, "7.0"
+  s.platform     = :ios, "8.0"
   s.source       = {
     :git => "https://github.com/EricssonResearch/openwebrtc-ios-sdk.git",
     :tag => "0.4"
